@@ -1,2 +1,3 @@
-# nearest-love
-Repo for Maptime Lex Valentine's Day Special
+# Where is your nearest love?
+
+A mapping project for Maptime Lex Valentine's Day Special.
