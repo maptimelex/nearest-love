@@ -1,0 +1,2541 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Prescott Regional Airport - Ernest A Love Field",
+                    "FEATURE_CLASS": "Airport",
+                    "STATE_ALPHA": "AZ",
+                    "ELEV_IN_FT": "5003"
+                },
+                "geometry": {"type": "Point","coordinates":[-112.4204368,34.650912]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "True Love Bar",
+                    "FEATURE_CLASS": "Bar",
+                    "STATE_ALPHA": "AR",
+                    "ELEV_IN_FT": "164"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.6539965,34.8489848]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "True Love Crossing",
+                    "FEATURE_CLASS": "Crossing",
+                    "STATE_ALPHA": "AR",
+                    "ELEV_IN_FT": "171"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.648163,34.8495403]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christian Love Spiritual Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "AL",
+                    "ELEV_IN_FT": "577"
+                },
+                "geometry": {"type": "Point","coordinates":[-86.8327684,33.5167722]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Ed E Love Water Treatment Plant",
+                    "FEATURE_CLASS": "Locale",
+                    "STATE_ALPHA": "AL",
+                    "ELEV_IN_FT": "305"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.5219499,33.2173404]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Temple Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "AL",
+                    "ELEV_IN_FT": "121"
+                },
+                "geometry": {"type": "Point","coordinates":[-86.983878,32.4415248]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Shelter of Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "AL",
+                    "ELEV_IN_FT": "361"
+                },
+                "geometry": {"type": "Point","coordinates":[-88.2450338,33.4142856]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "South Love Mesa Bench",
+                    "FEATURE_CLASS": "Bench",
+                    "STATE_ALPHA": "CO",
+                    "ELEV_IN_FT": "8077"
+                },
+                "geometry": {"type": "Point","coordinates":[-108.442309,38.5263767]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "North Love Mesa Bench",
+                    "FEATURE_CLASS": "Bench",
+                    "STATE_ALPHA": "CO",
+                    "ELEV_IN_FT": "8218"
+                },
+                "geometry": {"type": "Point","coordinates":[-108.4698102,38.5299879]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "John Love Elementary School",
+                    "FEATURE_CLASS": "School",
+                    "STATE_ALPHA": "FL",
+                    "ELEV_IN_FT": "16"
+                },
+                "geometry": {"type": "Point","coordinates":[-81.6348328,30.347938]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Emma Love Hardee Elementary School",
+                    "FEATURE_CLASS": "School",
+                    "STATE_ALPHA": "FL",
+                    "ELEV_IN_FT": "23"
+                },
+                "geometry": {"type": "Point","coordinates":[-81.4521552,30.6373697]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Abiding Love Lutheran Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "FL",
+                    "ELEV_IN_FT": "16"
+                },
+                "geometry": {"type": "Point","coordinates":[-81.8511967,26.6378503]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Alexander Love Grant",
+                    "FEATURE_CLASS": "Civil",
+                    "STATE_ALPHA": "FL",
+                    "ELEV_IN_FT": "13"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.3491421,30.4557526]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Church of God in Christ",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "FL",
+                    "ELEV_IN_FT": "89"
+                },
+                "geometry": {"type": "Point","coordinates":[-84.2929555,30.4252003]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Oasis of Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "GA",
+                    "ELEV_IN_FT": "978"
+                },
+                "geometry": {"type": "Point","coordinates":[-84.4921526,34.0923207]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "North Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "817"
+                },
+                "geometry": {"type": "Point","coordinates":[-89.0134389,42.3175191]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Saint Valentine Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "482"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.9783672,38.9217107]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Belaire Assembly of Full Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "610"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.6881034,41.6105897]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "New Valentine School",
+                    "FEATURE_CLASS": "School",
+                    "STATE_ALPHA": "IN",
+                    "ELEV_IN_FT": "974"
+                },
+                "geometry": {"type": "Point","coordinates":[-85.4033128,41.5975501]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Kit Love Branch",
+                    "FEATURE_CLASS": "Stream",
+                    "STATE_ALPHA": "KY",
+                    "ELEV_IN_FT": "400"
+                },
+                "geometry": {"type": "Point","coordinates":[-88.1955846,37.3311633]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christian Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "LA",
+                    "ELEV_IN_FT": "72"
+                },
+                "geometry": {"type": "Point","coordinates":[-92.430414,31.2635171]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Church of God in Christ",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "LA",
+                    "ELEV_IN_FT": "30"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.4742554,30.4976917]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christian Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "LA",
+                    "ELEV_IN_FT": "3"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.0870168,29.9363155]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Second True Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "LA",
+                    "ELEV_IN_FT": "0"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.0903502,29.9402043]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "True Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "LA",
+                    "ELEV_IN_FT": "0"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.0892391,29.9424265]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "True Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "LA",
+                    "ELEV_IN_FT": "56"
+                },
+                "geometry": {"type": "Point","coordinates":[-91.1528844,30.4610237]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "True Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "LA",
+                    "ELEV_IN_FT": "62"
+                },
+                "geometry": {"type": "Point","coordinates":[-91.1703851,30.5218557]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Old Love Point Park",
+                    "FEATURE_CLASS": "Park",
+                    "STATE_ALPHA": "MD",
+                    "ELEV_IN_FT": "13"
+                },
+                "geometry": {"type": "Point","coordinates":[-76.3074555,38.9876121]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Saint Valentine School",
+                    "FEATURE_CLASS": "School",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "627"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.2971527,42.3961475]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christian Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MS",
+                    "ELEV_IN_FT": "197"
+                },
+                "geometry": {"type": "Point","coordinates":[-88.3405914,33.1698464]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Old Christian Love Cemetery",
+                    "FEATURE_CLASS": "Cemetery",
+                    "STATE_ALPHA": "MS",
+                    "ELEV_IN_FT": "197"
+                },
+                "geometry": {"type": "Point","coordinates":[-88.3464197,33.1734513]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Temple Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MS",
+                    "ELEV_IN_FT": "226"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.2242547,32.7545795]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Kenneth Love Lake Dam",
+                    "FEATURE_CLASS": "Dam",
+                    "STATE_ALPHA": "MS",
+                    "ELEV_IN_FT": "344"
+                },
+                "geometry": {"type": "Point","coordinates":[-89.6384117,33.1117954]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Old Love Cemetery",
+                    "FEATURE_CLASS": "Cemetery",
+                    "STATE_ALPHA": "MS",
+                    "ELEV_IN_FT": "312"
+                },
+                "geometry": {"type": "Point","coordinates":[-89.9764727,34.7456486]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Grace Love Elementary School",
+                    "FEATURE_CLASS": "School",
+                    "STATE_ALPHA": "MS",
+                    "ELEV_IN_FT": "141"
+                },
+                "geometry": {"type": "Point","coordinates":[-89.2786722,31.3196192]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "True Love Cemetery",
+                    "FEATURE_CLASS": "Cemetery",
+                    "STATE_ALPHA": "MO",
+                    "ELEV_IN_FT": "1470"
+                },
+                "geometry": {"type": "Point","coordinates":[-93.9471392,36.6258954]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Broadway Valentine Shopping Center",
+                    "FEATURE_CLASS": "Locale",
+                    "STATE_ALPHA": "MO",
+                    "ELEV_IN_FT": "961"
+                },
+                "geometry": {"type": "Point","coordinates":[-94.5907895,39.0616717]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Radiant Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MO",
+                    "ELEV_IN_FT": "587"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.3740077,38.4061651]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "South Fork Valentine Creek",
+                    "FEATURE_CLASS": "Stream",
+                    "STATE_ALPHA": "MT",
+                    "ELEV_IN_FT": "4649"
+                },
+                "geometry": {"type": "Point","coordinates":[-113.9637359,48.9010878]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Oasis of Love Church-FCF",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NM",
+                    "ELEV_IN_FT": "5197"
+                },
+                "geometry": {"type": "Point","coordinates":[-106.5872469,35.1306009]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Samuel G Love Elementary School",
+                    "FEATURE_CLASS": "School",
+                    "STATE_ALPHA": "NY",
+                    "ELEV_IN_FT": "1378"
+                },
+                "geometry": {"type": "Point","coordinates":[-79.2406037,42.1006135]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "James Love School",
+                    "FEATURE_CLASS": "School",
+                    "STATE_ALPHA": "NC",
+                    "ELEV_IN_FT": "807"
+                },
+                "geometry": {"type": "Point","coordinates":[-81.5673143,35.2659613]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Fellowship of Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "OH",
+                    "ELEV_IN_FT": "807"
+                },
+                "geometry": {"type": "Point","coordinates":[-82.9393471,40.0003422]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Living Word Love Center",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "OH",
+                    "ELEV_IN_FT": "545"
+                },
+                "geometry": {"type": "Point","coordinates":[-84.5152208,39.1114486]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Gods Love Holiness Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "OH",
+                    "ELEV_IN_FT": "531"
+                },
+                "geometry": {"type": "Point","coordinates":[-84.5185541,39.1139485]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christian Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "OH",
+                    "ELEV_IN_FT": "610"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.5846569,41.6519943]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Kate Love Simpson Library",
+                    "FEATURE_CLASS": "Building",
+                    "STATE_ALPHA": "OH",
+                    "ELEV_IN_FT": "702"
+                },
+                "geometry": {"type": "Point","coordinates":[-81.8487466,39.6481267]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Cheek Love Cemetery",
+                    "FEATURE_CLASS": "Cemetery",
+                    "STATE_ALPHA": "OK",
+                    "ELEV_IN_FT": "820"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.2935318,34.1058692]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "East Fork Love Creek",
+                    "FEATURE_CLASS": "Stream",
+                    "STATE_ALPHA": "OR",
+                    "ELEV_IN_FT": "2900"
+                },
+                "geometry": {"type": "Point","coordinates":[-117.4454773,44.7971033]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "North Fork Valentine Creek",
+                    "FEATURE_CLASS": "Stream",
+                    "STATE_ALPHA": "OR",
+                    "ELEV_IN_FT": "774"
+                },
+                "geometry": {"type": "Point","coordinates":[-122.6909202,44.8092887]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "South Fork Valentine Creek",
+                    "FEATURE_CLASS": "Stream",
+                    "STATE_ALPHA": "OR",
+                    "ELEV_IN_FT": "774"
+                },
+                "geometry": {"type": "Point","coordinates":[-122.6909202,44.8092887]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Saint Valentine School",
+                    "FEATURE_CLASS": "School",
+                    "STATE_ALPHA": "PA",
+                    "ELEV_IN_FT": "1211"
+                },
+                "geometry": {"type": "Point","coordinates":[-80.0311642,40.330903]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "J B Love Dam",
+                    "FEATURE_CLASS": "Dam",
+                    "STATE_ALPHA": "SD",
+                    "ELEV_IN_FT": "1772"
+                },
+                "geometry": {"type": "Point","coordinates":[-100.6237488,45.5999955]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "J B Love Dam",
+                    "FEATURE_CLASS": "Dam",
+                    "STATE_ALPHA": "SD",
+                    "ELEV_IN_FT": "1827"
+                },
+                "geometry": {"type": "Point","coordinates":[-100.695416,45.5983286]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "J B Love Number 2 Dam",
+                    "FEATURE_CLASS": "Dam",
+                    "STATE_ALPHA": "SD",
+                    "ELEV_IN_FT": "1923"
+                },
+                "geometry": {"type": "Point","coordinates":[-100.6887497,45.5816617]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TN",
+                    "ELEV_IN_FT": "276"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.0617583,35.1220349]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "San Valentine Windmill",
+                    "FEATURE_CLASS": "Locale",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "456"
+                },
+                "geometry": {"type": "Point","coordinates":[-98.7944707,26.774497]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "East Love Tank",
+                    "FEATURE_CLASS": "Reservoir",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "4642"
+                },
+                "geometry": {"type": "Point","coordinates":[-105.186129,31.3823317]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Dallas Love Field",
+                    "FEATURE_CLASS": "Airport",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "476"
+                },
+                "geometry": {"type": "Point","coordinates":[-96.85177,32.84711]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Frank Love Elementary School",
+                    "FEATURE_CLASS": "School",
+                    "STATE_ALPHA": "WA",
+                    "ELEV_IN_FT": "46"
+                },
+                "geometry": {"type": "Point","coordinates":[-122.2081812,47.7614871]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Oxan Love Spring",
+                    "FEATURE_CLASS": "Spring",
+                    "STATE_ALPHA": "WV",
+                    "ELEV_IN_FT": "669"
+                },
+                "geometry": {"type": "Point","coordinates":[-82.002084,39.0167452]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Little Valentine Lake",
+                    "FEATURE_CLASS": "Lake",
+                    "STATE_ALPHA": "WY",
+                    "ELEV_IN_FT": "10869"
+                },
+                "geometry": {"type": "Point","coordinates":[-109.1901888,42.8327383]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Bud Love Big Game Winter Range",
+                    "FEATURE_CLASS": "Park",
+                    "STATE_ALPHA": "WY",
+                    "ELEV_IN_FT": "5709"
+                },
+                "geometry": {"type": "Point","coordinates":[-106.8761667,44.4083047]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Bear Claw Love Number 1 Dam",
+                    "FEATURE_CLASS": "Dam",
+                    "STATE_ALPHA": "WY",
+                    "ELEV_IN_FT": "4455"
+                },
+                "geometry": {"type": "Point","coordinates":[-107.3339722,44.9033009]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Bear Claw Love Number 1 Reservoir",
+                    "FEATURE_CLASS": "Reservoir",
+                    "STATE_ALPHA": "WY",
+                    "ELEV_IN_FT": "4455"
+                },
+                "geometry": {"type": "Point","coordinates":[-107.3364973,44.9038298]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "True Love Cemetery",
+                    "FEATURE_CLASS": "Cemetery",
+                    "STATE_ALPHA": "LA",
+                    "ELEV_IN_FT": "0"
+                },
+                "geometry": {"type": "Point","coordinates":[-89.873121,29.8624281]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "N C Love Addition",
+                    "FEATURE_CLASS": "Populated Place",
+                    "STATE_ALPHA": "TN",
+                    "ELEV_IN_FT": "1657"
+                },
+                "geometry": {"type": "Point","coordinates":[-82.3595842,36.314273]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Old Love Cemetery",
+                    "FEATURE_CLASS": "Cemetery",
+                    "STATE_ALPHA": "TN",
+                    "ELEV_IN_FT": "863"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.3102841,35.6625644]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "First Church of Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "VA",
+                    "ELEV_IN_FT": "69"
+                },
+                "geometry": {"type": "Point","coordinates":[-77.4444285,38.273462]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Saint Valentine Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "561"
+                },
+                "geometry": {"type": "Point","coordinates":[-89.1125835,41.3300347]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Brotherly Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "594"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.719777,41.8514213]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Cathedral of Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "587"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.6158819,41.7586453]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christian Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "607"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.6225495,41.7808672]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christian Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "604"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.7086666,41.8908656]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Williams Love Park",
+                    "FEATURE_CLASS": "Park",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "732"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.9853392,41.7697529]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christian Love Christian Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "594"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.5989366,41.7455901]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Divine Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "614"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.6400477,41.6755899]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Unity of Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "597"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.6450504,41.7858669]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "First Love Christian Fellowship Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "OK",
+                    "ELEV_IN_FT": "1926"
+                },
+                "geometry": {"type": "Point","coordinates":[-99.3925923,35.4172721]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Circle of Love Foundation",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "OK",
+                    "ELEV_IN_FT": "630"
+                },
+                "geometry": {"type": "Point","coordinates":[-95.6047008,36.3062076]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Lincoln-Douglas Valentine Museum",
+                    "FEATURE_CLASS": "Building",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "597"
+                },
+                "geometry": {"type": "Point","coordinates":[-91.4101505,39.9319904]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Outreach Ministry of Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "OK",
+                    "ELEV_IN_FT": "659"
+                },
+                "geometry": {"type": "Point","coordinates":[-95.966385,36.1931483]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "First Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "OK",
+                    "ELEV_IN_FT": "1250"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.8858914,36.4011445]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "First Love Christian Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "OK",
+                    "ELEV_IN_FT": ""
+                },
+                "geometry": {"type": "Point","coordinates":[0.0,0.0]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Faith Hope and Love Missionary",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "OK",
+                    "ELEV_IN_FT": "1299"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.4650365,35.4064512]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Oasis of Love Worship Center",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "OK",
+                    "ELEV_IN_FT": ""
+                },
+                "geometry": {"type": "Point","coordinates":[0.0,0.0]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Temple of Brotherly Love Community Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "594"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.5792139,41.7547568]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "True Love First Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "OK",
+                    "ELEV_IN_FT": "1168"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.3789245,35.5203383]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "First Church of Love and Faith",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "610"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.6778284,41.7503113]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Church of God in Christ",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "CA",
+                    "ELEV_IN_FT": "23"
+                },
+                "geometry": {"type": "Point","coordinates":[-121.2588346,37.9590905]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Divine Love Christian Fellowship Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "CA",
+                    "ELEV_IN_FT": "56"
+                },
+                "geometry": {"type": "Point","coordinates":[-121.894956,37.3771626]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "North Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "886"
+                },
+                "geometry": {"type": "Point","coordinates":[-88.9884384,42.3183525]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Monument of Love Church of God in Christ",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "604"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.6767178,41.7717001]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "New Greater Love Pentacostal Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "594"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.6517174,41.7867002]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Louis Valentine Unit Boys and Girls Clubs of America",
+                    "FEATURE_CLASS": "Building",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "597"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.6453295,41.8319776]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "R H Love Galleries",
+                    "FEATURE_CLASS": "Building",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "587"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.6264416,41.8941996]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "True Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "CA",
+                    "ELEV_IN_FT": "2329"
+                },
+                "geometry": {"type": "Point","coordinates":[-117.683119,35.6149562]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Spirit of Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "594"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.6639399,41.7836445]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Unity of Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "597"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.6450509,41.8022557]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Unity of Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "617"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.7667243,41.8925318]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Living Love Ministries",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "509"
+                },
+                "geometry": {"type": "Point","coordinates":[-89.5848194,40.7017043]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Desert Love Christian Center",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "CA",
+                    "ELEV_IN_FT": "2749"
+                },
+                "geometry": {"type": "Point","coordinates":[-117.295601,34.5355511]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Lord of Love Lutheran Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "WI",
+                    "ELEV_IN_FT": "951"
+                },
+                "geometry": {"type": "Point","coordinates":[-89.3437277,43.2530467]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Faith and Love Ministries",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "CA",
+                    "ELEV_IN_FT": "381"
+                },
+                "geometry": {"type": "Point","coordinates":[-117.2680916,33.2036476]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christian Love Center",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "CA",
+                    "ELEV_IN_FT": "276"
+                },
+                "geometry": {"type": "Point","coordinates":[-117.0791967,32.7361625]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "CA",
+                    "ELEV_IN_FT": "135"
+                },
+                "geometry": {"type": "Point","coordinates":[-118.2786846,33.9386261]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Faith Hope and Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NE",
+                    "ELEV_IN_FT": "1532"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.4208855,42.0319489]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Everlasting Love Ministries",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NE",
+                    "ELEV_IN_FT": "1453"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.3864312,41.4427896]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Faith Hope and Love Fellowship",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NE",
+                    "ELEV_IN_FT": "1591"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.9092341,42.4819482]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Don Love Building",
+                    "FEATURE_CLASS": "Building",
+                    "STATE_ALPHA": "NE",
+                    "ELEV_IN_FT": "1309"
+                },
+                "geometry": {"type": "Point","coordinates":[-96.6511264,40.7744454]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Lord of Love Lutheran Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NE",
+                    "ELEV_IN_FT": "1220"
+                },
+                "geometry": {"type": "Point","coordinates":[-96.0761287,41.3063868]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "People of Gods Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "RI",
+                    "ELEV_IN_FT": "262"
+                },
+                "geometry": {"type": "Point","coordinates":[-71.4589477,41.8537108]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Fellowship In His Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NH",
+                    "ELEV_IN_FT": "230"
+                },
+                "geometry": {"type": "Point","coordinates":[-71.1989498,42.9253646]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Saint Valentine Cemetery",
+                    "FEATURE_CLASS": "Cemetery",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "482"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.9783544,38.9208855]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "East Love Division",
+                    "FEATURE_CLASS": "Civil",
+                    "STATE_ALPHA": "OK",
+                    "ELEV_IN_FT": "850"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.1144174,33.9380517]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "West Love Division",
+                    "FEATURE_CLASS": "Civil",
+                    "STATE_ALPHA": "OK",
+                    "ELEV_IN_FT": "971"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.4056763,33.964589]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Fellowship for Love and Wisdom Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "CT",
+                    "ELEV_IN_FT": "157"
+                },
+                "geometry": {"type": "Point","coordinates":[-72.5820335,41.7781549]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Harold M Love Senior Learning Resource Center",
+                    "FEATURE_CLASS": "Building",
+                    "STATE_ALPHA": "TN",
+                    "ELEV_IN_FT": "509"
+                },
+                "geometry": {"type": "Point","coordinates":[-86.8302774,36.1675567]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "H A Valentine Memorial Library",
+                    "FEATURE_CLASS": "Building",
+                    "STATE_ALPHA": "OH",
+                    "ELEV_IN_FT": "971"
+                },
+                "geometry": {"type": "Point","coordinates":[-81.5165051,41.0820002]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "God is Love Pentecostal Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MA",
+                    "ELEV_IN_FT": "118"
+                },
+                "geometry": {"type": "Point","coordinates":[-71.0200455,42.0820446]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "God is Love Believers Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MA",
+                    "ELEV_IN_FT": "184"
+                },
+                "geometry": {"type": "Point","coordinates":[-72.6462017,42.2695348]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Reigning Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MA",
+                    "ELEV_IN_FT": "1004"
+                },
+                "geometry": {"type": "Point","coordinates":[-73.2562161,42.4489735]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "659"
+                },
+                "geometry": {"type": "Point","coordinates":[-98.4400156,29.4016229]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "551"
+                },
+                "geometry": {"type": "Point","coordinates":[-96.80889,32.7212423]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Truth in Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "528"
+                },
+                "geometry": {"type": "Point","coordinates":[-96.8250019,32.8456828]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Saint Lukes Love Field United Methodist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "456"
+                },
+                "geometry": {"type": "Point","coordinates":[-96.8566695,32.8359609]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Faith Hope Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "463"
+                },
+                "geometry": {"type": "Point","coordinates":[-96.165248,31.7068355]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "62"
+                },
+                "geometry": {"type": "Point","coordinates":[-95.3232697,29.8402254]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Apostolic Assembly of Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "30"
+                },
+                "geometry": {"type": "Point","coordinates":[-95.2443794,29.6682857]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Fellowship of Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "545"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.1733376,31.5673879]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "669"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.2694591,32.6987436]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Temple Church of God in Christ",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "466"
+                },
+                "geometry": {"type": "Point","coordinates":[-95.3113406,32.3815367]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "492"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.6683372,30.3096519]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Gods House of Love Prayer",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "607"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.7144938,41.6400338]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Lower Love Park",
+                    "FEATURE_CLASS": "Park",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "440"
+                },
+                "geometry": {"type": "Point","coordinates":[-96.6458236,32.2784795]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Frank and Mellie Love House",
+                    "FEATURE_CLASS": "Building",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "751"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.6725087,30.6307499]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "G A Love Cemetery",
+                    "FEATURE_CLASS": "Cemetery",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "390"
+                },
+                "geometry": {"type": "Point","coordinates":[-96.8533149,30.9629648]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Lourie - Love Hall",
+                    "FEATURE_CLASS": "Building",
+                    "STATE_ALPHA": "NJ",
+                    "ELEV_IN_FT": "144"
+                },
+                "geometry": {"type": "Point","coordinates":[-74.6559916,40.3445515]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Church of God",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IA",
+                    "ELEV_IN_FT": "814"
+                },
+                "geometry": {"type": "Point","coordinates":[-93.5860501,41.605267]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Bethel Church of Love and Praise",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NJ",
+                    "ELEV_IN_FT": "138"
+                },
+                "geometry": {"type": "Point","coordinates":[-74.1993119,40.7823228]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christian Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NJ",
+                    "ELEV_IN_FT": "164"
+                },
+                "geometry": {"type": "Point","coordinates":[-74.2373685,40.7234347]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Abundant Love Apostolic Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NY",
+                    "ELEV_IN_FT": "135"
+                },
+                "geometry": {"type": "Point","coordinates":[-73.835137,40.909881]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Redeeming Love Lutheran Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MN",
+                    "ELEV_IN_FT": "1096"
+                },
+                "geometry": {"type": "Point","coordinates":[-94.3180556,45.565]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Faith, Hope and Love Fellowship",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MN",
+                    "ELEV_IN_FT": "1112"
+                },
+                "geometry": {"type": "Point","coordinates":[-94.3444444,45.9361111]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Gull and Love Lake Campground",
+                    "FEATURE_CLASS": "Locale",
+                    "STATE_ALPHA": "MN",
+                    "ELEV_IN_FT": "1217"
+                },
+                "geometry": {"type": "Point","coordinates":[-94.32083,46.4375]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Saint Valentine School",
+                    "FEATURE_CLASS": "School",
+                    "STATE_ALPHA": "NY",
+                    "ELEV_IN_FT": "144"
+                },
+                "geometry": {"type": "Point","coordinates":[-73.8588889,40.8836111]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "No Greater Love Fellowship Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NY",
+                    "ELEV_IN_FT": "82"
+                },
+                "geometry": {"type": "Point","coordinates":[-73.5563889,40.7202778]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "No Greater Love Fellowship Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NY",
+                    "ELEV_IN_FT": "82"
+                },
+                "geometry": {"type": "Point","coordinates":[-73.5175,40.7208333]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "We Love Kids Day Care Center",
+                    "FEATURE_CLASS": "Building",
+                    "STATE_ALPHA": "FL",
+                    "ELEV_IN_FT": "7"
+                },
+                "geometry": {"type": "Point","coordinates":[-80.3,25.8480556]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Kid's Love Day Care Center",
+                    "FEATURE_CLASS": "Building",
+                    "STATE_ALPHA": "FL",
+                    "ELEV_IN_FT": "3"
+                },
+                "geometry": {"type": "Point","coordinates":[-80.2752778,25.8672222]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Faith Hope Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MN",
+                    "ELEV_IN_FT": "906"
+                },
+                "geometry": {"type": "Point","coordinates":[-96.7730556,46.8725]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Light of Love Mission Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "CA",
+                    "ELEV_IN_FT": "715"
+                },
+                "geometry": {"type": "Point","coordinates":[-118.0922222,34.1463889]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "True Love Lutheran Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "CA",
+                    "ELEV_IN_FT": "121"
+                },
+                "geometry": {"type": "Point","coordinates":[-117.9538889,33.8597222]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "True Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "CA",
+                    "ELEV_IN_FT": "148"
+                },
+                "geometry": {"type": "Point","coordinates":[-118.2736111,33.9244444]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Center of Love Church of God",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "VA",
+                    "ELEV_IN_FT": "13"
+                },
+                "geometry": {"type": "Point","coordinates":[-76.2777778,36.8255556]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Christian Outreach",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "CA",
+                    "ELEV_IN_FT": "75"
+                },
+                "geometry": {"type": "Point","coordinates":[-118.2333333,33.9036111]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "God's Love Christian Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IN",
+                    "ELEV_IN_FT": "837"
+                },
+                "geometry": {"type": "Point","coordinates":[-86.0569444,39.8408333]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Holy Love Pentecostal Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NY",
+                    "ELEV_IN_FT": "36"
+                },
+                "geometry": {"type": "Point","coordinates":[-73.9263889,40.6622222]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "First Love Ministries Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "KS",
+                    "ELEV_IN_FT": "965"
+                },
+                "geometry": {"type": "Point","coordinates":[-94.6827209,39.0432801]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Christian Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "627"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.8536111,41.8725]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Higher Love Ministries",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "584"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.5583333,41.7441667]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Spiritual Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "591"
+                },
+                "geometry": {"type": "Point","coordinates":[-87.5861111,41.7261111]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Grace And Love Fellowship Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "CO",
+                    "ELEV_IN_FT": "5367"
+                },
+                "geometry": {"type": "Point","coordinates":[-104.865,39.7380556]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "His Love Fellowship Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "CO",
+                    "ELEV_IN_FT": "5246"
+                },
+                "geometry": {"type": "Point","coordinates":[-104.9996602,39.7307302]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Holy Love Lutheran Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "CO",
+                    "ELEV_IN_FT": "5777"
+                },
+                "geometry": {"type": "Point","coordinates":[-104.8091667,39.6405556]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Edward Valentine Building",
+                    "FEATURE_CLASS": "Building",
+                    "STATE_ALPHA": "CA",
+                    "ELEV_IN_FT": "794"
+                },
+                "geometry": {"type": "Point","coordinates":[-118.1522222,34.1336111]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "IL",
+                    "ELEV_IN_FT": "712"
+                },
+                "geometry": {"type": "Point","coordinates":[-88.2844444,41.7463889]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Lots of Love Day Care",
+                    "FEATURE_CLASS": "School",
+                    "STATE_ALPHA": "MD",
+                    "ELEV_IN_FT": "407"
+                },
+                "geometry": {"type": "Point","coordinates":[-76.6234854,39.4204859]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "True Spirit of Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "656"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.2081,42.4156]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Wings of Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "633"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.102,42.4182]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Fellowship of Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "627"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.2588,42.4082]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "God's Tabernacle of Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "620"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.2378,42.3575]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Tabernacle Church of God in Christ",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "620"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.2148,42.3724]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christ Divine Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "623"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.0386,42.4289]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christ Love Tabernacle Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "620"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.2004,42.3725]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "New Greater Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "604"
+                },
+                "geometry": {"type": "Point","coordinates":[-82.9646,42.4113]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "New Greater Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "591"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.116,42.2936]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "James Valentine Campbell Library",
+                    "FEATURE_CLASS": "Building",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "587"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.1074,42.3046]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Triumphant Love Lutheran Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "879"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.7548869,30.3939978]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Abiding Love Lutheran Child Development Center",
+                    "FEATURE_CLASS": "Building",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "741"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.8462595,30.2172394]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Triumphant Love Lutheran Child Development Center",
+                    "FEATURE_CLASS": "Building",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "879"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.7548869,30.3939978]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Abiding Love Lutheran Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "741"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.8462135,30.2171892]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "For Love of Children Learning Center",
+                    "FEATURE_CLASS": "School",
+                    "STATE_ALPHA": "DC",
+                    "ELEV_IN_FT": "46"
+                },
+                "geometry": {"type": "Point","coordinates":[-77.02261,38.89916]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Cathedral of Love Christian Academy Preschool",
+                    "FEATURE_CLASS": "School",
+                    "STATE_ALPHA": "NJ",
+                    "ELEV_IN_FT": "13"
+                },
+                "geometry": {"type": "Point","coordinates":[-74.9119131,40.0305873]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Temple",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "DE",
+                    "ELEV_IN_FT": "30"
+                },
+                "geometry": {"type": "Point","coordinates":[-75.502787,39.146849]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Town of Love Valley",
+                    "FEATURE_CLASS": "Civil",
+                    "STATE_ALPHA": "NC",
+                    "ELEV_IN_FT": "1312"
+                },
+                "geometry": {"type": "Point","coordinates":[-80.9834643,35.9872534]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christian Love Center Church of God",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "FL",
+                    "ELEV_IN_FT": "89"
+                },
+                "geometry": {"type": "Point","coordinates":[-82.0611111,28.6180556]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Oasis of Love Family Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "961"
+                },
+                "geometry": {"type": "Point","coordinates":[-84.9986111,41.9508333]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christian Love Fellowship",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TN",
+                    "ELEV_IN_FT": "272"
+                },
+                "geometry": {"type": "Point","coordinates":[-89.976065,35.209325]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Glory To God Love Ministries",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TN",
+                    "ELEV_IN_FT": "308"
+                },
+                "geometry": {"type": "Point","coordinates":[-89.961962,35.107498]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Monument of Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TN",
+                    "ELEV_IN_FT": "312"
+                },
+                "geometry": {"type": "Point","coordinates":[-89.974994,35.098784]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "True Love Fellowship Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TN",
+                    "ELEV_IN_FT": "256"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.03489,35.159806]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Family Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "623"
+                },
+                "geometry": {"type": "Point","coordinates":[-96.8650307,32.7325964]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Brotherly Love Family Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "463"
+                },
+                "geometry": {"type": "Point","coordinates":[-96.7991276,32.7431473]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Open Arms of Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "614"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.2610325,32.686443]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Perfect Love World Revival Ministries",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "LA",
+                    "ELEV_IN_FT": "-7"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.0125,30.02922]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christ Love Fellowship Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "597"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.4213889,41.9016667]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Abiding Love Lutheran Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "FL",
+                    "ELEV_IN_FT": "10"
+                },
+                "geometry": {"type": "Point","coordinates":[-82.006362,26.592085]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Abiding Love Restoration Center",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TN",
+                    "ELEV_IN_FT": "427"
+                },
+                "geometry": {"type": "Point","coordinates":[-86.7738314,36.1826278]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Faith Hope and Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TN",
+                    "ELEV_IN_FT": "597"
+                },
+                "geometry": {"type": "Point","coordinates":[-86.6376661,36.0737608]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christ Cathedral Oasis of Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NC",
+                    "ELEV_IN_FT": "417"
+                },
+                "geometry": {"type": "Point","coordinates":[-78.9357608,36.0304581]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "No Greater Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NC",
+                    "ELEV_IN_FT": "367"
+                },
+                "geometry": {"type": "Point","coordinates":[-78.8810506,35.9877]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "One Love Ministries",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NC",
+                    "ELEV_IN_FT": "404"
+                },
+                "geometry": {"type": "Point","coordinates":[-78.9022178,36.0387584]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Redeeming Love Christian Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NC",
+                    "ELEV_IN_FT": "381"
+                },
+                "geometry": {"type": "Point","coordinates":[-78.8857039,36.0087438]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Redeeming Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NC",
+                    "ELEV_IN_FT": "285"
+                },
+                "geometry": {"type": "Point","coordinates":[-78.5831667,35.7668964]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "CA",
+                    "ELEV_IN_FT": "331"
+                },
+                "geometry": {"type": "Point","coordinates":[-117.0650175,32.7531185]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christian Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "DC",
+                    "ELEV_IN_FT": "52"
+                },
+                "geometry": {"type": "Point","coordinates":[-76.982936,38.90123]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "God Is Love First Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "VA",
+                    "ELEV_IN_FT": "272"
+                },
+                "geometry": {"type": "Point","coordinates":[-77.138553,38.857823]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Spirit of Love Center",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "KY",
+                    "ELEV_IN_FT": "446"
+                },
+                "geometry": {"type": "Point","coordinates":[-85.8164235,38.2630297]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Church of God",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "WA",
+                    "ELEV_IN_FT": "351"
+                },
+                "geometry": {"type": "Point","coordinates":[-122.4507,47.2495]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Oasis of Love Christian Academy School",
+                    "FEATURE_CLASS": "School",
+                    "STATE_ALPHA": "LA",
+                    "ELEV_IN_FT": "112"
+                },
+                "geometry": {"type": "Point","coordinates":[-93.0814494,31.7307067]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Deliverance Pentecostal Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "AZ",
+                    "ELEV_IN_FT": "1093"
+                },
+                "geometry": {"type": "Point","coordinates":[-112.0486842,33.4084678]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Brotherly Love Christian Assembly",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MO",
+                    "ELEV_IN_FT": "512"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.2697,38.7217]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christ Love Divine Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MO",
+                    "ELEV_IN_FT": "525"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.2916,38.7287]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christian Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MO",
+                    "ELEV_IN_FT": "492"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.2105,38.6635]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Tabernacle Spirit of Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MO",
+                    "ELEV_IN_FT": "548"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.2653,38.6691]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "True Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MO",
+                    "ELEV_IN_FT": "509"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.2198,38.6697]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Oasis of Love Fellowship Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MO",
+                    "ELEV_IN_FT": "505"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.2,38.7569]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Abiding Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "43"
+                },
+                "geometry": {"type": "Point","coordinates":[-95.2645,29.8366]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christian Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "TX",
+                    "ELEV_IN_FT": "52"
+                },
+                "geometry": {"type": "Point","coordinates":[-95.3018,29.8425]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "True Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NV",
+                    "ELEV_IN_FT": "2037"
+                },
+                "geometry": {"type": "Point","coordinates":[-115.152157,36.1945359]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "First Love Ministries",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "OR",
+                    "ELEV_IN_FT": "161"
+                },
+                "geometry": {"type": "Point","coordinates":[-122.6198609,45.5088879]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Truth in Love Ministries",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "OR",
+                    "ELEV_IN_FT": "197"
+                },
+                "geometry": {"type": "Point","coordinates":[-122.6706457,45.3504594]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "John Love Elementary School",
+                    "FEATURE_CLASS": "School",
+                    "STATE_ALPHA": "FL",
+                    "ELEV_IN_FT": "16"
+                },
+                "geometry": {"type": "Point","coordinates":[-81.6346562,30.3478771]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "One Love Christian Center",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "FL",
+                    "ELEV_IN_FT": "20"
+                },
+                "geometry": {"type": "Point","coordinates":[-81.6972651,30.4372042]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Faith Worship and Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MO",
+                    "ELEV_IN_FT": "863"
+                },
+                "geometry": {"type": "Point","coordinates":[-94.5456876,39.0974857]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "True Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MO",
+                    "ELEV_IN_FT": "889"
+                },
+                "geometry": {"type": "Point","coordinates":[-94.5593623,39.0989242]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Great Love Mission Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MN",
+                    "ELEV_IN_FT": "883"
+                },
+                "geometry": {"type": "Point","coordinates":[-93.2877,44.8969]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Redeeming Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MN",
+                    "ELEV_IN_FT": "922"
+                },
+                "geometry": {"type": "Point","coordinates":[-93.021,45.0146]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "True Love Church Ministries of Arts",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MN",
+                    "ELEV_IN_FT": "932"
+                },
+                "geometry": {"type": "Point","coordinates":[-93.2954,45.0178]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Mission of Love Christian Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "FL",
+                    "ELEV_IN_FT": "62"
+                },
+                "geometry": {"type": "Point","coordinates":[-81.2579509,28.5682684]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "World Family Love Mission",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "FL",
+                    "ELEV_IN_FT": "95"
+                },
+                "geometry": {"type": "Point","coordinates":[-81.3138673,28.4803407]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Brotherly Love Family Worship Center",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "FL",
+                    "ELEV_IN_FT": "112"
+                },
+                "geometry": {"type": "Point","coordinates":[-81.351263,28.513723]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Mission of Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NC",
+                    "ELEV_IN_FT": "121"
+                },
+                "geometry": {"type": "Point","coordinates":[-77.9833,35.4026]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Frank Love Elementary School",
+                    "FEATURE_CLASS": "School",
+                    "STATE_ALPHA": "WA",
+                    "ELEV_IN_FT": "472"
+                },
+                "geometry": {"type": "Point","coordinates":[-122.2362727,47.795975]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Divine Love Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "DC",
+                    "ELEV_IN_FT": "30"
+                },
+                "geometry": {"type": "Point","coordinates":[-76.94017,38.902648]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Truth in Love Christian Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "KS",
+                    "ELEV_IN_FT": "1033"
+                },
+                "geometry": {"type": "Point","coordinates":[-94.820412,38.879671]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Redeeming Love Gospel Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NY",
+                    "ELEV_IN_FT": "476"
+                },
+                "geometry": {"type": "Point","coordinates":[-73.6452778,42.74]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Covenant Love Community Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NY",
+                    "ELEV_IN_FT": "1109"
+                },
+                "geometry": {"type": "Point","coordinates":[-76.3697222,42.4819444]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Korean Love Mission Center",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NY",
+                    "ELEV_IN_FT": "62"
+                },
+                "geometry": {"type": "Point","coordinates":[-73.8044444,40.7561111]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Redeeming Love Christian Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "597"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.9313889,43.6169444]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Saint Valentine Catholic Cemetery",
+                    "FEATURE_CLASS": "Cemetery",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "636"
+                },
+                "geometry": {"type": "Point","coordinates":[-84.0649951,43.7111026]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "New Beginning Love Center",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NY",
+                    "ELEV_IN_FT": "72"
+                },
+                "geometry": {"type": "Point","coordinates":[-73.8680556,40.7572222]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Fountain of Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "630"
+                },
+                "geometry": {"type": "Point","coordinates":[-86.2344444,43.2152778]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "No Greater Love Holiness Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "AL",
+                    "ELEV_IN_FT": "325"
+                },
+                "geometry": {"type": "Point","coordinates":[-85.597007,31.33136]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Fellowship Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MS",
+                    "ELEV_IN_FT": "26"
+                },
+                "geometry": {"type": "Point","coordinates":[-89.1066983,30.3661305]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christian Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MS",
+                    "ELEV_IN_FT": "16"
+                },
+                "geometry": {"type": "Point","coordinates":[-88.5361773,30.400338]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Covenant Love Community School",
+                    "FEATURE_CLASS": "School",
+                    "STATE_ALPHA": "NY",
+                    "ELEV_IN_FT": "1109"
+                },
+                "geometry": {"type": "Point","coordinates":[-76.3698154,42.4817906]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Calvary's Love Assembly of God",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NY",
+                    "ELEV_IN_FT": "1302"
+                },
+                "geometry": {"type": "Point","coordinates":[-75.9657383,42.150576]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Church of God Love and Faith",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NY",
+                    "ELEV_IN_FT": "1503"
+                },
+                "geometry": {"type": "Point","coordinates":[-74.690577,41.6471947]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christian Love Day Care and Learning Center",
+                    "FEATURE_CLASS": "School",
+                    "STATE_ALPHA": "LA",
+                    "ELEV_IN_FT": "56"
+                },
+                "geometry": {"type": "Point","coordinates":[-91.1448083,30.4784385]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Ministry of Love Day Care and Learning Center",
+                    "FEATURE_CLASS": "School",
+                    "STATE_ALPHA": "LA",
+                    "ELEV_IN_FT": "66"
+                },
+                "geometry": {"type": "Point","coordinates":[-91.1314242,30.5251822]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Faith Hope and Love Fellowship Center",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "LA",
+                    "ELEV_IN_FT": "121"
+                },
+                "geometry": {"type": "Point","coordinates":[-91.3742902,30.7793317]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Church of God",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "LA",
+                    "ELEV_IN_FT": "46"
+                },
+                "geometry": {"type": "Point","coordinates":[-92.218394,30.406886]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "First True Love World Outreach",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "LA",
+                    "ELEV_IN_FT": "26"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.4446926,30.4536843]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Tabernacle of Love Pentecostal Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "LA",
+                    "ELEV_IN_FT": "7"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.8407794,29.7775025]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Unity of Love Outreach",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "LA",
+                    "ELEV_IN_FT": "194"
+                },
+                "geometry": {"type": "Point","coordinates":[-91.0182861,30.8678145]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "The Great Love Church of Seattle",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "WA",
+                    "ELEV_IN_FT": "456"
+                },
+                "geometry": {"type": "Point","coordinates":[-122.3020508,47.8033388]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christian Love Faith Center",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "745"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.7386111,43.0266667]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Bountiful Love Ministries",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "768"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.7494444,43.0466667]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Agape God's Love Church of God",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "801"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.69149,43.06136]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Pleasant Love Missionary Baptist Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "797"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.69084,43.09402]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Christian Love Bible Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NY",
+                    "ELEV_IN_FT": "436"
+                },
+                "geometry": {"type": "Point","coordinates":[-77.5530585,43.1509431]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Church of Love Faith Center",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NY",
+                    "ELEV_IN_FT": "518"
+                },
+                "geometry": {"type": "Point","coordinates":[-77.617418,43.1411134]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "New Love Fellowship Rochester Assembly",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NY",
+                    "ELEV_IN_FT": "489"
+                },
+                "geometry": {"type": "Point","coordinates":[-77.6077385,43.181503]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Redeeming Love Fellowship Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NY",
+                    "ELEV_IN_FT": "561"
+                },
+                "geometry": {"type": "Point","coordinates":[-75.2919202,43.2317892]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Oasis of Love Full Gospel Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "981"
+                },
+                "geometry": {"type": "Point","coordinates":[-84.37957,42.22505]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Lots of Love Farm",
+                    "FEATURE_CLASS": "Locale",
+                    "STATE_ALPHA": "NJ",
+                    "ELEV_IN_FT": "128"
+                },
+                "geometry": {"type": "Point","coordinates":[-74.9513889,39.6622222]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Labor of Love Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "833"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.69318,42.20126]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Greater Love Church of God in Christ",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "758"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.62,42.2311111]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "King of Love University Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "MI",
+                    "ELEV_IN_FT": "735"
+                },
+                "geometry": {"type": "Point","coordinates":[-83.61957,42.25111]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Leonard Valentine Memorial Bridge",
+                    "FEATURE_CLASS": "Bridge",
+                    "STATE_ALPHA": "WV",
+                    "ELEV_IN_FT": "1496"
+                },
+                "geometry": {"type": "Point","coordinates":[-81.378898,37.60026]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Redeeming Love Ministries",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "KS",
+                    "ELEV_IN_FT": "3140"
+                },
+                "geometry": {"type": "Point","coordinates":[-101.045486,39.3964656]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Lockport Volunteer Fire Department Valentine Station",
+                    "FEATURE_CLASS": "Building",
+                    "STATE_ALPHA": "LA",
+                    "ELEV_IN_FT": "7"
+                },
+                "geometry": {"type": "Point","coordinates":[-90.4441166,29.5880074]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Mercy Health / Love County Hospital",
+                    "FEATURE_CLASS": "Hospital",
+                    "STATE_ALPHA": "OK",
+                    "ELEV_IN_FT": "860"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.1309923,33.9430331]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Mercy Health Love County Ambulance",
+                    "FEATURE_CLASS": "Building",
+                    "STATE_ALPHA": "OK",
+                    "ELEV_IN_FT": "787"
+                },
+                "geometry": {"type": "Point","coordinates":[-97.1316886,33.7573479]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Redeeming Love Fellowship Church",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "CO",
+                    "ELEV_IN_FT": "5236"
+                },
+                "geometry": {"type": "Point","coordinates":[-105.0008291,39.7731895]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "First Love Christian",
+                    "FEATURE_CLASS": "Church",
+                    "STATE_ALPHA": "NY",
+                    "ELEV_IN_FT": "669"
+                },
+                "geometry": {"type": "Point","coordinates":[-78.697584,42.9149488]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Site of the Love House Historical Marker",
+                    "FEATURE_CLASS": "Park",
+                    "STATE_ALPHA": "KY",
+                    "ELEV_IN_FT": "512"
+                },
+                "geometry": {"type": "Point","coordinates":[-84.88163,38.19873]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Kaufman - Valentine Cemetery",
+                    "FEATURE_CLASS": "Cemetery",
+                    "STATE_ALPHA": "OH",
+                    "ELEV_IN_FT": "889"
+                },
+                "geometry": {"type": "Point","coordinates":[-82.4648899,39.7929252]}},
+
+                {"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "Father's Love Airport",
+                    "FEATURE_CLASS": "Airport",
+                    "STATE_ALPHA": "PA",
+                    "ELEV_IN_FT": "1742"
+                },
+                "geometry": {"type": "Point","coordinates":[-78.7315749,40.6470898]}},
+{"type": "Feature",
+                 "properties": {
+                    "FEATURE_NAME": "❤️",
+                    "FEATURE_CLASS": "Home is where the heart is.",
+                    "STATE_ALPHA": "KY, Y'ALL",
+                    "ELEV_IN_FT": "-9999" },
+                "geometry": {"type": "Point","coordinates":[-84.5042992, 38.0387101]}}
+                ]}
+                
