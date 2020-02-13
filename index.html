@@ -20,11 +20,31 @@
       font-family: 'Merriweather', serif;
     }
 
-    h1 {
+    header {
+      height: 10vh;
+    }
+
+    h1,
+    h2 {
       padding: 0 0 0 .5em;
-      margin: .4em 0;
+      margin: .6em 0;
       color: red;
       font-weight: 300;
+      font-size: 1.8em;
+      display: inline-block;
+    }
+
+    h2 {
+      font-size: .9em;
+      padding-right: 3em;
+      margin: 2em 0 0;
+      color: white;
+      float: right;
+    }
+
+    h2 a {
+      color: white;
+      text-decoration: underline;
     }
 
     #map {
@@ -37,7 +57,11 @@
 
 
 </head>
-<h1>💘 Where's your nearest love?</h1>
+<header>
+  <h1>💘 Where's your nearest love?</h1>
+  <h2>A quick prototype map for <a href='https://github.com/maptimelex/nearest-love/'>demonstration purposes and
+      maptimeLEX</a></h2>
+</header>
 <div id='map'></div>
 
 <body>

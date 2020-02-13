@@ -35,3 +35,5 @@ We then load this file into an HTML document (_index.html_). The HTML requests a
 - [Leaflet](https://leafletjs.com/): the leading open-source JavaScript library for mobile-friendly interactive maps
 - [d3-fetch](https://github.com/d3/d3-fetch): convenience module on to of the Fetch API, requests and parses data files into the DOM
 - [Turf](https://turfjs.org/): library for geospatial analysis, performs a point in polygon test within this script to determine which point falls within any given voronoi polygon.
+
+Resultant map can be viewed live: https://maptimelex.github.io/nearest-love/
