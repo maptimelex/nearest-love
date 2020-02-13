@@ -1,5 +1,7 @@
 # Where is your nearest love?
 
+Thursday, February 13, 6pm–7pm | Miller Hall basement ([map](https://maptimelex.github.io/location/)) 
+
 A mapping project for Maptime Lex Valentine's Day Special.
 
 ![need map love](images/need-map-love.png)
